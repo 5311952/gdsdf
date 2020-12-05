@@ -63,8 +63,6 @@ body {
   }
     .text {
     padding: 5px;
-    border: 6px rgb(253, 232, 112);
-    border-style: dotted;
     background-color: rgb(255, 196, 216);
     }
     
@@ -74,7 +72,7 @@ body {
     }
     
     .wrap {
-    background-color: rgb(255, 205, 233);
+    
     font-style: italic;
     text-align: left;
     }
@@ -89,7 +87,7 @@ body {
     }
 
     .book {
-      background-color: rgb(255, 205, 233);
+      
       font-style: italic;
       text-align: left;
       }
